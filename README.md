@@ -2,7 +2,7 @@
 
 To run this program, run this command:
 
-```python
+```cmd
 cmd python jes.py
 ```
 
